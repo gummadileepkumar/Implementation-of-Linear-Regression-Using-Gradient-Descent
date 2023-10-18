@@ -87,27 +87,27 @@ print("For Population = 70000, we predict a profit of $"+str(round(predict2,0)))
 
 ## Output:
 ### Profit prediction:
-
+![model](ml_3.1.png)
 
 
 ### Function output:
-
+![model](ml_3.2.png)
 
 ### Gradient descent:
-
+![model](ml_3.3.png)
 
 ### Cost function using Gradient Descent:
-
+![model](ml_3.4.png)
 
 
 ### Linear Regression using Profit Prediction:
-
+![model](ml_3.5.png)
 
 ### Profit Prediction for a population of 35000:
-
+![model](ml_3.6.png)
 
 ### Profit Prediction for a population of 70000 :
-
+![model](ml_3.7.png)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
