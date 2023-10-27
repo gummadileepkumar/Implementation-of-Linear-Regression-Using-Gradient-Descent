@@ -86,21 +86,21 @@ print("For Population = 70000, we predict a profit of $"+str(round(predict2,0)))
 ```
 
 ## Output:
-### Profit prediction:
+### Profit prediction Graph:
 ![model](ml_3.1.png)
 
 
-### Function output:
+### Compute cost value:
 ![model](ml_3.2.png)
 
-### Gradient descent:
+### h(x) value:
 ![model](ml_3.3.png)
 
-### Cost function using Gradient Descent:
+### Cost function using Gradient Descent Graph:
 ![model](ml_3.4.png)
 
 
-### Linear Regression using Profit Prediction:
+### Profit Prediction Graph:
 ![model](ml_3.5.png)
 
 ### Profit Prediction for a population of 35000:
